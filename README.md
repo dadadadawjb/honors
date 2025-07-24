@@ -1,4 +1,6 @@
 # Honors
+<img src="assets/logo.png" alt="honors" width="10%" >
+
 A curated list of AI papers of interest that have received honors, focusing more on computer vision and robot learning, along with personal summary.
 
 ## Table of Contents

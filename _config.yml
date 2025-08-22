@@ -11,6 +11,7 @@ plugins:
 
 logo: "/assets/logo.png"
 favicon_ico: "/assets/logo.png"
+footer_content: ""
 
 search_enabled: true
 
@@ -22,4 +23,6 @@ aux_links_new_tab: true
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+  syntax_highlighter: rouge
+  input: GFM
 math: mathjax

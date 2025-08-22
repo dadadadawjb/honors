@@ -1,5 +1,6 @@
 title: Honors
-description: A curated list of papers that have received honors
+description: List of AI honored papers
+keywords: "honors, AI, papers, best-paper, outstanding-paper, distinguished-paper"
 author:
   name: Junbo Wang
   email: sjtuwjb3589635689@sjtu.edu.cn
@@ -12,6 +13,7 @@ plugins:
 logo: "/assets/logo.png"
 favicon_ico: "/assets/logo.png"
 footer_content: ""
+last_edit_timestamp: false
 
 search_enabled: true
 

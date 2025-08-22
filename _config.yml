@@ -1,5 +1,5 @@
 title: Honors
-description: A curated list of papers that have received honors.
+description: A curated list of papers that have received honors
 author:
   name: Junbo Wang
   email: sjtuwjb3589635689@sjtu.edu.cn
@@ -9,6 +9,16 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+logo: "/assets/logo.png"
 favicon_ico: "/assets/logo.png"
 
 search_enabled: true
+
+aux_links:
+  "Honors on GitHub":
+    - "//github.com/dadadadawjb/honors"
+aux_links_new_tab: true
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax

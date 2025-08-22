@@ -12,8 +12,6 @@ plugins:
 
 logo: "/assets/logo.png"
 favicon_ico: "/assets/logo.png"
-footer_content: ""
-last_edit_timestamp: false
 
 search_enabled: true
 

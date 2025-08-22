@@ -22,3 +22,4 @@ aux_links_new_tab: true
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+math: mathjax

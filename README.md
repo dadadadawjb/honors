@@ -10,3 +10,14 @@ A curated list of AI papers of interest that have received honors, focusing more
 * [2022](2022.md)
 * [2021](2021.md)
 * [2020](2020.md)
+
+## Presentation
+
+<div class="presentation-embed">
+  <iframe
+    src="https://1drv.ms/p/c/ec5d618f142f28b8/IQSDVDzW7XEXS6AHVV9ANLJ2AZGS05-f3TJbk7pC4-J4yck"
+    title="Honors presentation"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
